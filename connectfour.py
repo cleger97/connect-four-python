@@ -1,4 +1,4 @@
-# File: proj1.py
+# File: connectfour.py
 # Author: Alex Leger
 # Date: Started 11/7/2016
 # Section: 4
